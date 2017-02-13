@@ -23,5 +23,6 @@ var Images = {
     return "http://icon-icons.com/icons2/390/PNG/512/perspective-dice-six-faces-random_38559.png"
   }
 }
-
-module.exports = Images
+debugger
+// module.exports = Images
+window.Images = Images

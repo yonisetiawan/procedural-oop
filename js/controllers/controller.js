@@ -1,4 +1,4 @@
-var Images = require('../models/model')
+// var Images = require('../models/model')
 
 var Result = {
   random: function() {
@@ -25,4 +25,5 @@ var Result = {
   }
 }
 
-module.exports = Result
+// module.exports = Result
+window.Result = Result
